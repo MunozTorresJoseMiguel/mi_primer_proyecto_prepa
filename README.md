@@ -8,5 +8,6 @@
 
 
 ## Mi foto
-![Mi foto](foto.JPG.jpeg)
+![Mi foto](foto.jpg)
+
 
